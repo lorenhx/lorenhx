@@ -17,7 +17,7 @@ I am an :it: Computer Engineering student and cybersecurity lover! <img src="htt
 - :closed_lock_with_key: I'm currently attending the Cyber HackAdemy by Accenture to refine my cyber security skills
 - :zap: In my free time, I study blockchain technologies and read finance articles.
 - :mailbox: How to reach me: [email](mailto:lorenzopannone@gmail.com)
-- :newspaper: My profile site: [lorenzopannone.it](https://www.lorenzopannone.it/)
+- :newspaper: My profile site: [lorenhx.github.io](https://lorenhx.github.io/))
 
 
 
