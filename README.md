@@ -13,8 +13,8 @@
 
 
 ### :man_technologist: About Me :
-I am an :it: Computer Engineering student and cybersecurity lover! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :closed_lock_with_key: I'm currently attending the Cyber HackAdemy by Accenture to refine my cyber security skills
+I am an :it: Security Engineer, Msc Computer Engineering Graduate and cybersecurity lover! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :closed_lock_with_key: I'm currently working as a Senior Consultant in the Identity and Access Management area.
 - :zap: In my free time, I study blockchain technologies and read finance articles.
 - :mailbox: How to reach me: [email](mailto:lorenzopannone@gmail.com)
 - :newspaper: My profile site: [lorenhx.github.io](https://lorenhx.github.io/)
